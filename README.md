@@ -44,7 +44,7 @@
   <a href="https://www.credly.com/badges/6e3c89d3-996c-40fd-b8bc-e34518949c92" target="_blank">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" alt="AWS Certified Solutions Architect – Associate" height="80"/>
   </a>
-  <img src="assets/badge-42.svg" alt="42 Common Core" height="80"/>
+  <img src="assets/badge-42.svg" alt="42 Common Core" height="64"/>
 </p>
 
 **AWS Certified Solutions Architect – Associate** — issued by Amazon Web Services Training and Certification. [Verify on Credly →](https://www.credly.com/badges/6e3c89d3-996c-40fd-b8bc-e34518949c92)
