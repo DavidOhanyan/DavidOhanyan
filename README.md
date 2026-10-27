@@ -34,9 +34,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gcp,prometheus,grafana,elasticsearch,python,c,cpp,bash,git,github,githubactions&theme=dark" alt="Skills"/>
-</p>
-
-<p align="center">
   <img src="assets/devops-extra-icons.svg" alt="ArgoCD, Proxmox, Kibana, Filebeat"/>
 </p>
 
