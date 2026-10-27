@@ -44,13 +44,10 @@
   <a href="https://www.credly.com/badges/6e3c89d3-996c-40fd-b8bc-e34518949c92" target="_blank">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
   </a>
+  <img src="assets/badge-42.svg" alt="42 Common Core" width="48"/>
 </p>
 
 **AWS Certified Solutions Architect – Associate** — issued by Amazon Web Services Training and Certification. [Verify on Credly →](https://www.credly.com/badges/6e3c89d3-996c-40fd-b8bc-e34518949c92)
-
-<p align="left">
-  <img src="assets/badge-42.svg" alt="42 Common Core" width="48"/>
-</p>
 
 **42 Yerevan — Common Core** — completed the peer-to-peer, project-based core curriculum (2024).
 
