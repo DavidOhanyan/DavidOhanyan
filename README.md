@@ -80,3 +80,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/davit-ohanyan/">Let's connect on LinkedIn</a> · <a href="mailto:davitohanyann@gmail.com">Email me</a>
 </p>
+
+<p align="center">
+  <img src="assets/claude-spin.svg" alt="Claude" width="28" height="28" valign="middle"/>
+  <sub>&nbsp;This profile is maintained with <a href="https://claude.com/claude-code">Claude Code</a></sub>
+</p>
