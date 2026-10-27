@@ -37,17 +37,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="assets/devops-extra-icons.svg" alt="ArgoCD, Proxmox, Kibana, Filebeat"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" alt="Observability Skills"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
-  <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Filebeat"/>
 </p>
 
 ---
