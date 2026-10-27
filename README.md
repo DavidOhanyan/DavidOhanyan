@@ -33,15 +33,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gcp,python,c,cpp,bash,git,github,githubactions&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gcp,prometheus,grafana,elasticsearch,python,c,cpp,bash,git,github,githubactions&theme=dark" alt="Skills"/>
 </p>
 
 <p align="center">
   <img src="assets/devops-extra-icons.svg" alt="ArgoCD, Proxmox, Kibana, Filebeat"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" alt="Observability Skills"/>
 </p>
 
 ---
