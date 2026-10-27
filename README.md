@@ -48,6 +48,12 @@
 
 **AWS Certified Solutions Architect – Associate** — issued by Amazon Web Services Training and Certification. [Verify on Credly →](https://www.credly.com/badges/6e3c89d3-996c-40fd-b8bc-e34518949c92)
 
+<p align="left">
+  <img src="assets/badge-42.svg" alt="42 Common Core" width="48"/>
+</p>
+
+**42 Yerevan — Common Core** — completed the peer-to-peer, project-based core curriculum (2024).
+
 ---
 
 ### 📊 GitHub Stats
