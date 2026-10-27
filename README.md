@@ -32,7 +32,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="assets/devops-stack-icons.svg" alt="Tech stack"/>
 </p>
 
