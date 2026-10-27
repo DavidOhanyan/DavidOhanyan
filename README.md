@@ -14,6 +14,10 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/claude-crab.svg" alt="A pixel crab wandering across the profile" width="640"/>
+</p>
+
 ---
 
 ### 🚀 About Me
