@@ -24,7 +24,7 @@
 - 🔁 GitOps delivery with **ArgoCD**
 - ⚙️ Infrastructure as Code with **Terraform**, configuration management with **Ansible**
 - 🐧 Strong **Linux** fundamentals
-- 📈 Observability & logging with **Prometheus**, **Grafana**, and the **ELK stack** (Elasticsearch, Filebeat, Kibana)
+- 📈 Observability & logging with **Prometheus**, **Grafana**, and the **EFK stack** (Elasticsearch, Filebeat, Kibana)
 - 💻 Background in systems programming (**C**, **C++**) and scripting/automation (**Python**)
 - 📚 Always learning — currently deepening GitOps and cloud-native practices
 
