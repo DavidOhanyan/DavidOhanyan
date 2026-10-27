@@ -1,14 +1,18 @@
-<h1 align="center">Hi, I'm Davit 👋</h1>
-<h3 align="center">DevOps Engineer | Infrastructure • Automation • Kubernetes</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Davit+Ohanyan+%F0%9F%91%8B;DevOps+Engineer;Kubernetes+%7C+Docker+%7C+Terraform;Automating+infrastructure%2C+one+pipeline+at+a+time" alt="Typing SVG"/>
+
+<p>
   <a href="https://www.linkedin.com/in/davit-ohanyan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:davitohanyann@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=DavidOhanyan&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
+
+</div>
 
 ---
 
@@ -27,38 +31,13 @@
 
 ### 🛠️ Tech Stack
 
-**Cloud & Infra**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gcp,python,c,cpp,bash,git,github,githubactions&theme=dark" alt="Skills"/>
 </p>
 
-**Containers & Orchestration**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<p align="center">
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-</p>
-
-**Automation & IaC**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
 </p>
 
 ---
@@ -72,6 +51,30 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOhanyan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidOhanyan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidOhanyan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidOhanyan/DavidOhanyan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidOhanyan/DavidOhanyan/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DavidOhanyan/DavidOhanyan/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
