@@ -24,6 +24,7 @@
 - 🔁 GitOps delivery with **ArgoCD**
 - ⚙️ Infrastructure as Code with **Terraform**, configuration management with **Ansible**
 - 🐧 Strong **Linux** fundamentals
+- 📈 Observability & logging with **Prometheus**, **Grafana**, and the **ELK stack** (Elasticsearch, Filebeat, Kibana)
 - 💻 Background in systems programming (**C**, **C++**) and scripting/automation (**Python**)
 - 📚 Always learning — currently deepening GitOps and cloud-native practices
 
@@ -38,6 +39,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+</p>
+
+**Observability & Monitoring**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" alt="Observability Skills"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Filebeat"/>
 </p>
 
 ---
