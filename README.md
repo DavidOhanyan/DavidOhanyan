@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
 </p>
 
-**Observability & Monitoring**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" alt="Observability Skills"/>
 </p>
