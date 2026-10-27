@@ -33,8 +33,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gcp,prometheus,grafana,elasticsearch,python,c,cpp,bash,git,github,githubactions&theme=dark" alt="Skills"/>
-  <img src="assets/devops-extra-icons.svg" alt="ArgoCD, Proxmox, Kibana, Filebeat"/>
+  <img src="assets/devops-stack-icons.svg" alt="Tech stack"/>
 </p>
 
 ---
