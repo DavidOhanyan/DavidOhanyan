@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Davit Ohanyan 👋</h1>
+<h1 align="center">Hi, I'm Davit 👋</h1>
 <h3 align="center">DevOps Engineer | Infrastructure • Automation • Kubernetes</h3>
 
 <p align="center">
